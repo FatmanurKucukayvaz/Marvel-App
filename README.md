@@ -1,6 +1,6 @@
 # Marvel-App
 Run Android
 -------------
-npm install /n
+npm install
 react-native start
 react-native run-android
